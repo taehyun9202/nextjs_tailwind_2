@@ -7,6 +7,7 @@ I built simple e-commercial admin's item upload page using state update and I ne
 
 So I tried to focus on updating state with array and object
 
+![Alt text](Capture.PNG?raw=true "result")
 
 **state update for array**
 ```
