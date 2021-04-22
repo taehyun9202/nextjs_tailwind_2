@@ -1,11 +1,11 @@
 
 ## purpose
 
-Main purpose of the project is getting famililar with next js and tailwind.
+The original purpose of the project is getting famililar with next js and tailwind.
 
-I built simple e-commercial admin's item upload page using state update.
+I built simple e-commercial admin's item upload page using state update and I never used state update for object. 
 
-I think I never used state update for object. 
+So I tried to focus on updating state with array and object
 
 
 **state update for array**
