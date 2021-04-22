@@ -28,7 +28,6 @@ function CreateForm() {
       alert("Item option already exists");
     } else {
       let updatingInfo = { [itemOption.current.value]: [] };
-      console.log(updatingInfo);
       setOptions((prev) => ({ ...prev, ...updatingInfo }));
     }
     itemOption.current.value = "";
